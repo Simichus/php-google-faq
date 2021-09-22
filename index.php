@@ -104,6 +104,20 @@ $faqs = [
         <?php } ?>
     </main>
 
+    <footer>
+        <div class="d-flex justify-content-between align-items-center py-2">
+            <ul class="ps-0 d-flex align-items-center mb-0">
+                <li class="me-2"><a href="">Google</a></li>
+                <li class="me-2"><a href="">Tutto su Google</a></li>
+                <li class="me-2"><a href="">Privacy</a></li>
+                <li><a href="">Termini</a></li>
+            </ul>
+            <select name="language">
+                <option value="it">Italiano</option>
+            </select>
+        </div>
+
+    </footer>
 </body>
 
 </html>
